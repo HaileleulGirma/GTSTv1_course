@@ -10,3 +10,5 @@ an os needs to have:
 - desktop environment
 
 linux distro :- is a flavour of a linux kernel which can have different characteristics from the kernel they are based from.
+
+the shell that kali uses is ZSH. 
