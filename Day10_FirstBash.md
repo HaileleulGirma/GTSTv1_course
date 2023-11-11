@@ -1,0 +1,5 @@
+- arrays in bash are separated by whitespace
+- `-p` stands for prompt which means to show on the command line
+- `-sp` stands for silent prompt which makes our input invisible. mostly used for passwords.
+- `-a` stands for array. it makes the machine think the input we are about to insert is an array.
+- 

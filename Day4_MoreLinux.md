@@ -19,6 +19,7 @@ file system is a directory structure that the OS uses.
 system files are files that are used by the system OS.
 while the windows system file appear under the local disk C:, linux system files appear under the root directory ( / ).
 
+- the `/sbin` directory **contains binary executables and command line tools that are preserved for the root user**.
 ### /(root)
 - every single file and directory starts from the root directory.
 - only the root user has the right to write under this directory.

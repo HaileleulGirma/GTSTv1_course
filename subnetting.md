@@ -1,0 +1,17 @@
+- when doing subnetting, a network bit is representing by '1' and a host bit is represented by '0'.
+- An IPV4 has a 32 bit logical ip address. there are 5 IP classes. 
+- class A,B,C,D,E
+- class A(0-126) has 1 octet for network bits and three for host bits.
+- class B(126-191) has 2 octets for network bits and two for host bits.
+- class C(192-223) has 3 octets for network bits and one for host bit.
+- octets are the 8 bits.
+- The practice of dividing a network into two or more networks is called subnetting.
+- subnet mask: denotes how many bits are given to the host and how many are given to the network.
+- subnet of class A:  255.0.0.0
+- subnet of class B:  255.255.0.0
+- subnet of class C:  255.255.255.0
+- subnetting is done from left to right.
+- CIDR: classless inter domain routing. it helps us to distinguish which bits are network bits and which bits are host bits regardless of the class.example 205.150.65.0/26 means that 26 bits are given for the network ip.
+- network ip: every subnet sets the first ip as the network ip.
+- broadcast id:last ip of the subnet used to communicate with all the host in that particular network.
+- 

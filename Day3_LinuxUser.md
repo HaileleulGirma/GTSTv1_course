@@ -49,9 +49,10 @@ echo text >> file.txt      appends a text to the file
 # read from a file
 cat      prints the whole text found inside a file onto the screen
 head    shows the first lines of the file onto the screen
+head -n    prints the first n number of lines onto the screen
 tail       prints the last lines of the file onto the screen
 tail -n    prints the last n number of lines onto the screen
-less        prints out the text of a file in a scrollable way unlike the way the command cat does
+less        prints out the text of a file in a scrollable way unlike the way the command `cat` does
 
 # creating a file
 touch   to create as many files as you want
@@ -77,5 +78,7 @@ example 1: cp ../yared.txt .
 explanation: copy yared txt file which is found one directory back and paste it in the current working directory
 example 2  cp ../yared.txt ../Desktop
 explanation: copy yared txt file which is found one directory back and paste it in the Desktop directory which is one directory back from the current working directory
+if you want to copy a file which is in the current directory and you want to copy it to a directory named "example" in the current directory
+`cp testing.md example/`
 
 a single dot represents the working directory you are on right now

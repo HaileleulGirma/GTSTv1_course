@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b376567b42b6c16c",
+        "id": "2074cfe3dff53b1f",
         "type": "tabs",
         "children": [
           {
-            "id": "88355231ef3d7f3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day5_LinuxRUN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f8fb32076f1e8ce",
+            "id": "14b846ed2de3195a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -28,19 +16,43 @@
             }
           },
           {
-            "id": "fac63b52006c18ca",
+            "id": "dad3c9bd560f148a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day6_FinalLinux.md",
+                "file": "subnetting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "734c5c36079cf367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S2/day1_info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a47600b0c8eb3ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S2/Day2_Scan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ccd6f68398a19a5e",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day6_FinalLinux.md",
+                "file": "S2/Day2_Scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day6_FinalLinux.md",
+                "file": "S2/Day2_Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day6_FinalLinux.md"
+                "file": "S2/Day2_Scan.md"
               }
             }
           }
@@ -167,13 +180,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fac63b52006c18ca",
+  "active": "1a47600b0c8eb3ed",
   "lastOpenFiles": [
+    "S2/day1_info.md",
+    "S2/Day2_Scan.md",
+    "S2",
+    "subnetting.md",
+    "Day4_MoreLinux.md",
+    "Day3_LinuxUser.md",
+    "Day11_proBash.md",
+    "Day10_FirstBash.md",
+    "Day9_FurtherPy.md",
+    "Day8_CorePy.md",
+    "day2_linux.md",
+    "day one.md",
+    "Day7_HelloPython.md",
+    "Day8.md",
+    "Day8",
     "Day6_FinalLinux.md",
     "Day5_LinuxRUN.md",
-    "Day4_MoreLinux.md",
     "3 linux commands tutorial for day 4.md",
-    "Day3_LinuxUser.md",
     "pics/opening insert vim.png",
     "pics/openinf vim.png",
     "pics/vim def.png",
@@ -187,7 +213,6 @@
     "pics/sed delete.png",
     "pics",
     "Untitled",
-    "day2_linux.md",
     "README.md"
   ]
 }

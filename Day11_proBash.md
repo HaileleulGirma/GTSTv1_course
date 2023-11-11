@@ -1,0 +1,2 @@
+if you want to search for different patterns inside a square bracket, you dont use pipeliner to state your search as OR, but concatinate them without the whitespace
+- sometimes the zsh terminal wont allow us to interact with the linux, so we need to change our shell to bash. To exit from bash, just type exit and enter.
